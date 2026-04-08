@@ -322,6 +322,12 @@
             "font_style": null,
             "font_weight": null
           },
+          "heading": {
+            "color": "#fce566",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "title": {
             "color": "#fce566",
             "background_color": null,
